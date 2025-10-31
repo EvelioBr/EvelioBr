@@ -5,8 +5,8 @@
 Meu nome é Evelio, sou programador Front-End e atualmente estou aprendendo e desenvolvendo projetos com:
 <br>
 <br>
-  <img width="50px" height="50px" alt="image-HTML" src="https://github.com/user-attachments/assets/552f2355-72b3-4c1b-923c-2beafd61ef01" />
-  <img width="50px" height="50px" alt="image-css" src="https://github.com/user-attachments/assets/ace499bb-e538-42fe-b238-0091de7b7adc" />
+  <img width="50px" height="50px" alt="image-html" src="https://github.com/user-attachments/assets/2d2fbb0e-443a-4ac1-8ecc-36a5b08536eb" />
+  <img width="50px" height="50px" alt="image-css" src="https://github.com/user-attachments/assets/4de9682a-eb16-422c-8b36-1b553d11bd7d" />
 <br>
 e começando a aprender:
 <br>
